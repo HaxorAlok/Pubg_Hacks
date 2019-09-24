@@ -71,7 +71,7 @@ if gg.isPackageInstalled("com.gxlkj.tl") then
 HOME = 1
   function HOME()
     MN = gg.choice({
-      "『🦠』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs\n ⟬ʟᴏʙʙʏ⟭",
+      "『🧱️』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs\n ⟬ʟᴏʙʙʏ⟭",
       "『🏌️』ғᴜᴄᴋ ʟᴇɢɪᴛs\n ⟬ʟᴏʙʙʏ⟭",
       "『🖥️』ғᴜᴄᴋ ʜᴀᴄᴋᴇʀs\n ⟬ɢᴀᴍᴇ⟭",
       "↪ᴇxɪᴛ↩"
@@ -96,13 +96,13 @@ HOME = 1
  
 function whclr()
 WC = gg.choice({
-   "『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 400-425 \n ⟬ʟᴏʙʙʏ⟭",
-   "『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 430-835\n ⟬ʟᴏʙʙʏ⟭",
-   "『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 845\n ⟬ʟᴏʙʙʏ⟭",
-   "『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 855\n ⟬ʟᴏʙʙʏ⟭",
-   "『🐞️』ғɪx ʙʟɪɴᴋ\n ⟬ɢᴀᴍᴇ⟭",
+   "『🦄』ᴡᴀʟʟʜᴀᴄᴋ 400-425 \n ⟬ʟᴏʙʙʏ⟭",
+   "『🦄』ᴡᴀʟʟʜᴀᴄᴋ 430-835\n ⟬ʟᴏʙʙʏ⟭",
+   "『🦄』ᴡᴀʟʟʜᴀᴄᴋ 845\n ⟬ʟᴏʙʙʏ⟭",
+   "『🦄』ᴡᴀʟʟʜᴀᴄᴋ 855\n ⟬ʟᴏʙʙʏ⟭",
+   "『🦄』ғɪx ʙʟɪɴᴋ\n ⟬ɢᴀᴍᴇ⟭",
    "⬅️「 Back ️」"
-},nil,"『🦠』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
+},nil,"『🧱️』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
 if WC == 1 then whV1() end
 if WC == 2 then whV2() end
 if WC == 3 then whV3() end
@@ -195,7 +195,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV1()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 400-425")
+gg.toast("『🦄』ᴡᴀʟʟʜᴀᴄᴋ 400-425")
 end
 
 function whV3()
@@ -212,7 +212,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』WallHack 845")
+gg.toast("『🦄』WallHack 845")
 end
 
 function whV4()
@@ -229,7 +229,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 855")
+gg.toast("『🦄』ᴡᴀʟʟʜᴀᴄᴋ 855")
 end
 
 function whV2()
@@ -246,7 +246,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 430-835")
+gg.toast("『🦄』ᴡᴀʟʟʜᴀᴄᴋ 430-835")
 end
 
 function fixblink()
@@ -262,7 +262,7 @@ gg.refineNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(999)
 gg.editAll("9999", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("『🐞』ғɪx ʙʟɪɴᴋ")
+gg.toast("『🦄』ғɪx ʙʟɪɴᴋ")
 end
 
 
@@ -270,11 +270,13 @@ function legit()
     LG = gg.choice({
    "『🎯』ʟᴇss ʀᴇᴄᴏɪʟ \n ⟬ʟᴏʙʙʏ⟭",
    "『🤯』ʜᴇᴀᴅsʜᴏᴛ\n ⟬ʟᴏʙʙʏ⟭",
+   "『🗼』ᴀɴᴛᴇɴᴀ\n ⟬ʟᴏʙʙʏ⟭",
    "⬅️「 Back ️」"
 },nil,"『』ғᴜᴄᴋ ʟᴇɢɪᴛs")
 if LG == 1 then lessrecoil() end
 if LG == 2 then headshot() end
-if LG == 6 then HOME() end
+if LG == 3 then antena() end
+if LG == 4 then HOME() end
 end
 
   function lessrecoil()
@@ -305,8 +307,19 @@ gg.clearResults()
 gg.toast("『🤯』ʜᴇᴀᴅsʜᴏᴛ 50%")
 end
 
+function antena()
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(999)
+gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("『🗼』ᴀɴᴛᴇɴᴀ")
+end
+
 function hackers()
-Password = '1'
+Password = 'alok'
 
 prompt = gg.prompt({"Password"},nil,{"text"});
 
@@ -327,30 +340,17 @@ else
 wrong()
 end
 HS = gg.choice({
-   "『🗼』ᴀɴᴛᴇɴᴀ\n ⟬ɢᴀᴍᴇ⟭",
    "『👥』ᴍᴀɢɪᴄ ʙᴜʟʟᴇᴛ\n ⟬ɢᴀᴍᴇ⟭",
    "『🤾』ʜɪɢʜ ᴊᴜᴍᴘ\n ⟬ɢᴀᴍᴇ⟭",
    "『⚡』ғʟᴀsʜ sᴘᴇᴇᴅ\n ⟬ɢᴀᴍᴇ⟭",
    "『🧘』sɪᴛsᴄᴏᴘᴇ\n ⟬ɢᴀᴍᴇ⟭",
    "⬅️「 Back ️」"
 },nil,"『📂』ғᴜᴄᴋ ʜᴀᴄᴋᴇʀs")
-if HS == 1 then antena() end
-if HS == 2 then magic() end
-if HS == 3 then highjump() end
-if HS == 4 then flashspeed() end
-if HS == 5 then sitscope() end
-if HS == 6 then HOME() end
-end
-
-function antena()
-gg.clearResults()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.searchNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(6)
-gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
-gg.clearResults()
-gg.toast("『🗼』ᴀɴᴛᴇɴᴀ")
+if HS == 1 then magic() end
+if HS == 2 then highjump() end
+if HS == 3 then flashspeed() end
+if HS == 4 then sitscope() end
+if HS == 5 then HOME() end
 end
 
 function magic()

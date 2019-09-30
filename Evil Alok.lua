@@ -1,4 +1,4 @@
- gg.alert("『🕊️』 ᴇᴠɪʟ〆ᴀʟᴏᴋ ᴠɪᴘ sᴄʀɪᴘᴛ\n『👨‍💻』ᴄᴏᴅᴇᴅ ʙʏ ᴀʟᴏᴋ\n『🌃』http://t.me/EvilAlok ", "⟬ᴍᴇɴᴜ⟭")
+   gg.alert("『🕊️』 ᴇᴠɪʟ〆ᴀʟᴏᴋ ᴠɪᴘ sᴄʀɪᴘᴛ\n『👨‍💻』ᴄᴏᴅᴇᴅ ʙʏ ᴀʟᴏᴋ\n『🌃』http://t.me/EvilAlok ", "⟬ᴍᴇɴᴜ⟭")
   HOME = 1
   function HOME()
     MN = gg.choice({
@@ -22,14 +22,14 @@
   end
   function HackSafe()
     MN8 = gg.multiChoice({
-" ▶️🗼 ᴀɴᴛᴇɴᴀ",
-" ▶️ 🔫 ʟᴇss ʀᴇᴄᴏɪʟ",
-"     ┌[ʟᴏʙʙʏ] [ᴏɴᴄᴇ]\n『💀』ʜᴇᴀᴅsʜᴏᴛ 95%",
-"     ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n『📱』ɪᴘᴀᴅ ᴠɪᴇᴡ",
-"     ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n『💫』ᴀɪᴍʙᴏᴛ 100ᴍ",
-"     ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n『🗽』sᴜᴘᴇʀ ᴊᴜᴍᴘ",
-"     ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n 『☄』ᴘʟᴀʏᴇʀ sᴘᴇᴇᴅ",
-"     ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n 『🚘』sᴘᴇᴇᴅ ᴀʟʟ ᴄᴀʀs",
+" ▶️ 🗼 ᴀɴᴛᴇɴᴀ ⟬ʟᴏʙʙʏ⟭",
+" ▶️ 🔫 ʟᴇss ʀᴇᴄᴏɪʟ ⟬ʟᴏʙʙʏ⟭",
+" ▶️ 💀 ʜᴇᴀᴅsʜᴏᴛ 95% ⟬ʟᴏʙʙʏ⟭",
+" ▶️ 📱 ɪᴘᴀᴅ ᴠɪᴇᴡ ⟬ɢᴀᴍᴇ⟭",
+" ▶️ 💫 ᴀɪᴍʙᴏᴛ 100ᴍ ⟬ɢᴀᴍᴇ⟭",
+" ▶️ 🗽 sᴜᴘᴇʀ ᴊᴜᴍᴘ ⟬ɢᴀᴍᴇ⟭",
+" ▶️ ☄ ᴘʟᴀʏᴇʀ sᴘᴇᴇᴅ ⟬ɢᴀᴍᴇ⟭",
+" ▶️ 🚘 sᴘᴇᴇᴅ ᴀʟʟ ᴄᴀʀs ⟬ɢᴀᴍᴇ⟭",
 "⬅️「 ʙᴀᴄᴋ ️」"
     }, nil, '『📂』sᴀғᴇ ᴄʜᴇᴀᴛs')
     if MN8 == nil then
@@ -67,13 +67,13 @@
   
   function whclr()
 WC = gg.choice({
-   "      ┌[ʟᴏʙʙʏ] [ᴏɴᴄᴇ]\n『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 400-425",
-   "      ┌[ʟᴏʙʙʏ] [ᴏɴᴄᴇ]\n『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 430-835",
-   "      ┌[ʟᴏʙʙʏ] [ᴏɴᴄᴇ]\n『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 845",
-   "      ┌[ʟᴏʙʙʏ] [ᴏɴᴄᴇ]\n『🐞️』ᴡᴀʟʟʜᴀᴄᴋ 855",
-   "      ┌[ɢᴀᴍᴇ] [ᴇᴠᴇʀʏ]\n『🐞️』ғɪx ʙʟɪɴᴋ",
+   "▶️🐞️ ᴡᴀʟʟʜᴀᴄᴋ 400-425 ⟬ʟᴏʙʙʏ⟭",
+   "▶️🐞️ ᴡᴀʟʟʜᴀᴄᴋ 430-835 ⟬ʟᴏʙʙʏ⟭",
+   "▶️🐞️ ᴡᴀʟʟʜᴀᴄᴋ 845 ⟬ʟᴏʙʙʏ⟭",
+   "▶️🐞️ ᴡᴀʟʟʜᴀᴄᴋ 855 ⟬ʟᴏʙʙʏ⟭",
+   "▶️🐞️ ғɪx ʙʟɪɴᴋ ⟬ʟᴏʙʙʏ⟭",
    "⬅️「 Back ️」"
-},nil,"『🦠』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
+},nil,"🦠 ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
 if WC == 1 then whV1() end
 if WC == 2 then whV2() end
 if WC == 3 then whV3() end
@@ -84,11 +84,11 @@ end
 
 function colorV1()
 CRR = gg.choice({
-   "『🍎』ʀᴇᴅ ᴄʜᴀʀᴍs",
-   "『🍋』ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs",
-   "『🚫』ᴡɪᴛʜᴏᴜᴛ ᴄʜᴀʀᴍs"
-},nil,"『🦠』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
-if CRR == nil then gg.alert("『⚠️』sᴇʟᴇᴄᴛ sᴏᴍᴇᴛʜɪɴɢ") colorV1() end
+   "🍎 ʀᴇᴅ ᴄʜᴀʀᴍs",
+   "🍋 ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs",
+   "🚫 ᴡɪᴛʜᴏᴜᴛ ᴄʜᴀʀᴍs"
+},nil,"🦠 ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
+if CRR == nil then gg.alert("⚠️ sᴇʟᴇᴄᴛ sᴏᴍᴇᴛʜɪɴɢ") colorV1() end
 if CRR == 1 then redcolorV1() end
 if CRR == 2 then yellowcolorV1() end
 if CRR == 3 then end
@@ -102,7 +102,7 @@ gg.refineAddress("E70", -1, gg.TYPE_DWORD, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("9999", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("『🍎』ʀᴇᴅ ᴄʜᴀʀᴍs")
+gg.toast("🍎 ʀᴇᴅ ᴄʜᴀʀᴍs")
 end
 
 function yellowcolorV1()
@@ -113,16 +113,16 @@ gg.refineAddress("E70", -1, gg.TYPE_DWORD, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("8564", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("『🍋』ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs")
+gg.toast("🍋 ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs")
 end
 
 function colorV2V3()
 CR = gg.choice({
-   "『🍎』ʀᴇᴅ ᴄʜᴀʀᴍs",
-   "『🍋』ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs",
-   "『🚫』ᴡɪᴛʜᴏᴜᴛ ᴄʜᴀʀᴍs"
-},nil,"『🦠』ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
-if CR == nil then gg.alert("『⚠️』sᴇʟᴇᴄᴛ sᴏᴍᴇᴛʜɪɴɢ") colorV2V3() end
+   "🍎 ʀᴇᴅ ᴄʜᴀʀᴍs",
+   "🍋 ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs",
+   "🚫 ᴡɪᴛʜᴏᴜᴛ ᴄʜᴀʀᴍs"
+},nil,"🦠 ᴡᴀʟʟʜᴀᴄᴋ & ᴄʜᴀʀᴍs")
+if CR == nil then gg.alert("⚠️ sᴇʟᴇᴄᴛ sᴏᴍᴇᴛʜɪɴɢ") colorV2V3() end
 if CR == 1 then redcolorV2V3() end
 if CR == 2 then yellowcolorV2V3() end
 if CR == 3 then end
@@ -137,7 +137,7 @@ gg.refineAddress("090", -1, gg.TYPE_DWORD, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("8199", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("『🍎』ʀᴇᴅ ᴄʜᴀʀᴍs")
+gg.toast("🍎 ʀᴇᴅ ᴄʜᴀʀᴍs")
 end
 
 function yellowcolorV2V3()
@@ -149,7 +149,7 @@ gg.refineAddress("090", -1, gg.TYPE_DWORD, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("8198", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("『🍋』ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs")
+gg.toast("🍋 ʏᴇʟʟᴏᴡ ᴄʜᴀʀᴍs")
 end
 
 function whV1()
@@ -166,7 +166,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV1()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 400-425")
+gg.toast("🐞 ᴡᴀʟʟʜᴀᴄᴋ 400-425")
 end
 
 function whV3()
@@ -183,7 +183,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』WallHack 845")
+gg.toast("🐞 WallHack 845")
 end
 
 function whV4()
@@ -200,7 +200,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 855")
+gg.toast("🐞 ᴡᴀʟʟʜᴀᴄᴋ 855")
 end
 
 function whV2()
@@ -217,7 +217,7 @@ gg.getResults(999)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 colorV2V3()
-gg.toast("『🐞』ᴡᴀʟʟʜᴀᴄᴋ 430-835")
+gg.toast("🐞 ᴡᴀʟʟʜᴀᴄᴋ 430-835")
 end
 
 function fixblink()
@@ -233,7 +233,7 @@ gg.refineNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(999)
 gg.editAll("9999", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("『🐞』ғɪx ʙʟɪɴᴋ")
+gg.toast("🐞 ғɪx ʙʟɪɴᴋ")
 end
    
    
@@ -245,7 +245,7 @@ end
     gg.getResults(6)
     gg.editAll('1.96875;1.96875;999;1.96875;1.96875;999', gg.TYPE_FLOAT)
     gg.clearResults()
-    gg.toast('『🗼』ᴀɴᴛᴇɴᴀ')
+    gg.toast('🗼 ᴀɴᴛᴇɴᴀ')
   end
   function Jump2()
     gg.clearResults()
@@ -259,7 +259,7 @@ end
     gg.searchNumber('443', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
     gg.getResults(500)
     gg.editAll('2500', gg.TYPE_FLOAT)
-    gg.toast('『🗽』sᴜᴘᴇʀ ᴊᴜᴍᴘ')
+    gg.toast('🗽 sᴜᴘᴇʀ ᴊᴜᴍᴘ')
   end
   function aimboot()
     gg.clearResults()
@@ -269,7 +269,7 @@ end
     gg.searchNumber('0.0001', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
     gg.getResults(100)
     gg.editAll('9999', gg.TYPE_FLOAT)
-    gg.toast('『💫』ᴀɪᴍʙᴏᴛ 100ᴍ')
+    gg.toast('💫  ᴀɪᴍʙᴏᴛ 100ᴍ')
   end
   function HSL()
     gg.clearResults()
@@ -290,7 +290,7 @@ end
     gg.getResults(10)
     gg.editAll('250', gg.TYPE_FLOAT)
     gg.clearResults()
-    gg.toast('『💀』ʜᴇᴀᴅsʜᴏᴛ 95%')
+    gg.toast('💀 ʜᴇᴀᴅsʜᴏᴛ 95%')
   end
   function LRC()
     gg.clearResults()
@@ -306,7 +306,7 @@ end
     gg.getResults(100)
     gg.editAll('0', gg.TYPE_DWORD)
     gg.clearResults()
-    gg.toast('『🔫』ʟᴇss ʀᴇᴄᴏɪʟ')
+    gg.toast('🔫 ʟᴇss ʀᴇᴄᴏɪʟ')
   end
   function Camplayer5on()
     gg.setRanges(gg.REGION_ANONYMOUS)
@@ -316,7 +316,7 @@ end
     gg.getResults(300)
     gg.editAll('350', gg.TYPE_FLOAT)
     gg.clearResults()
-    gg.toast('『📱』ɪᴘᴀᴅ ᴠɪᴇᴡ')
+    gg.toast('📱ɪᴘᴀᴅ ᴠɪᴇᴡ')
   end
   function SpeedDon()
     gg.clearResults()
@@ -326,7 +326,7 @@ end
     gg.getResults(100)
     gg.editAll('1.7', gg.TYPE_FLOAT)
     gg.clearResults()
-    gg.toast('『☄』ᴘʟᴀʏᴇʀ sᴘᴇᴇᴅ')
+    gg.toast('☄ ᴘʟᴀʏᴇʀ sᴘᴇᴇᴅ')
   end
   function Speedallcars()
     gg.clearResults()
@@ -341,7 +341,7 @@ end
     gg.searchNumber('0.01', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
     gg.getResults(280)
     gg.editAll('-0.23', gg.TYPE_FLOAT)
-    gg.toast('『🚘』sᴘᴇᴇᴅ ᴀʟʟ ᴄᴀʀs')
+    gg.toast('🚘 sᴘᴇᴇᴅ ᴀʟʟ ᴄᴀʀs')
   end
 
   function CLOSE()

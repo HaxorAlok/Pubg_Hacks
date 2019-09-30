@@ -1,5 +1,4 @@
-   
-gg.alert("『🕊️』 ᴇᴠɪʟ〆ᴀʟᴏᴋ ᴠɪᴘ sᴄʀɪᴘᴛ\n『👨‍💻』ᴄᴏᴅᴇᴅ ʙʏ ᴀʟᴏᴋ\n『🌃』http://t.me/EvilAlok ", "⟬ᴍᴇɴᴜ⟭")
+ gg.alert("『🕊️』 ᴇᴠɪʟ〆ᴀʟᴏᴋ ᴠɪᴘ sᴄʀɪᴘᴛ\n『👨‍💻』ᴄᴏᴅᴇᴅ ʙʏ ᴀʟᴏᴋ\n『🌃』http://t.me/EvilAlok ", "⟬ᴍᴇɴᴜ⟭")
   HOME = 1
   function HOME()
     MN = gg.choice({
